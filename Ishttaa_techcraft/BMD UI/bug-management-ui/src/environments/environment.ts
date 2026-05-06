@@ -1,3 +1,3 @@
 export const environment = {
-  apiUrl: 'https://localhost:7289/api'
+  apiUrl: 'https://bug-management-api-22lo.onrender.com/api/Bug',
 };
