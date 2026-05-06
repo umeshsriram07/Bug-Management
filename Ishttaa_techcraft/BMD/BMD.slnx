@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BMD.Business.Services/BMD.Business.Services.csproj" />
+  <Project Path="BMD.Core/BMD.Core.csproj" />
+  <Project Path="BMD.Infrastructure/BMD.Infrastructure.csproj" />
+  <Project Path="BMD.Logging/BMD.Logging.csproj" />
+  <Project Path="BMD.Services/BMD.Services.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@BMD.Services_HostAddress = http://localhost:5227
+
+GET {{BMD.Services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
