@@ -12,3 +12,18 @@ C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Logging\obj\Debug\net8.0\re
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.pdb
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.genruntimeconfig.cache
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Logging\obj\Debug\net8.0\ref\BMD.Logging.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\bin\Debug\net8.0\BMD.Logging.deps.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\bin\Debug\net8.0\BMD.Logging.runtimeconfig.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\bin\Debug\net8.0\BMD.Logging.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\bin\Debug\net8.0\BMD.Logging.pdb
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.csproj.AssemblyReference.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.AssemblyInfoInputs.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.AssemblyInfo.cs
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.csproj.CoreCompileInputs.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.sourcelink.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\refint\BMD.Logging.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.pdb
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\BMD.Logging.genruntimeconfig.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Logging\obj\Debug\net8.0\ref\BMD.Logging.dll

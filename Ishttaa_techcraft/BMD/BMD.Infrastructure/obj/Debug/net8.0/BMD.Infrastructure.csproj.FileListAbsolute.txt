@@ -15,3 +15,21 @@ C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Infrastructure\obj\Debug\ne
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.pdb
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.genruntimeconfig.cache
 C:\Users\91636\Assessments\Ishttaa techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\ref\BMD.Infrastructure.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Infrastructure.deps.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Infrastructure.runtimeconfig.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Infrastructure.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Infrastructure.pdb
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Core.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\bin\Debug\net8.0\BMD.Core.pdb
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.AssemblyInfo.cs
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.sourcelink.json
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infr.0082BF2B.Up2Date
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\refint\BMD.Infrastructure.dll
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.pdb
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\BMD.Infrastructure.genruntimeconfig.cache
+C:\Users\91636\Assessments\Ishttaa_techcraft\BMD\BMD.Infrastructure\obj\Debug\net8.0\ref\BMD.Infrastructure.dll

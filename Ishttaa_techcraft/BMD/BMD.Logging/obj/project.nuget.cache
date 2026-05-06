@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rTx7ulhM/tU=",
+  "dgSpecHash": "hoUGKoWMv+4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\91636\\Assessments\\Ishttaa techcraft\\BMD\\BMD.Logging\\BMD.Logging.csproj",
+  "projectFilePath": "C:\\Users\\91636\\Assessments\\Ishttaa_techcraft\\BMD\\BMD.Logging\\BMD.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91636\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\91636\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

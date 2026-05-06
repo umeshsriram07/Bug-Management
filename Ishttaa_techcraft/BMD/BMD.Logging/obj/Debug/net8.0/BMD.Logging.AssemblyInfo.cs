@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMD.Logging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+678f67d1e62244497587961d8443b7efa6604f35")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMD.Logging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMD.Logging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
